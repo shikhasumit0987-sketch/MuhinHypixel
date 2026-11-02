@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "muhinhypixel.mcsh.gg.site",
+    "ip": "muhinhypixel.mcsh.gg",
     "port": 25565,
     "version": "26.3",
     "try-creative": false
