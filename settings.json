@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "muhinhypixel.mcsh.gg",
+    "ip": "muhinhypixel.mcsh.gg.site",
     "port": 25565,
     "version": "26.3",
     "try-creative": false
@@ -25,7 +25,17 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    }
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+      "messages": [
+        "I'm a regular player",
+        "Subscribe to PRIME_ANKIT_YT!",
+        "https://www.youtube.com/@PRIME_ANKIT_YT"
+      ]
+    },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
@@ -74,3 +84,4 @@
   "chat": {
     "respond": true
   }
+}
